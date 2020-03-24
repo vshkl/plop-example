@@ -2,6 +2,11 @@
 
 Generate screens and components skeletone with a given name
 
+## Description
+
+- `/templates` holds all the templates to generate end files
+- `plopfile.js` holds the configuration of the generator
+
 ## Usage
 
 To generate a component with the name Button execute
