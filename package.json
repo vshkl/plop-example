@@ -7,9 +7,12 @@
     "ios": "react-native run-ios",
     "start": "react-native start",
     "test": "jest",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "generate:component": "plop component",
+    "generate:screen": "plop screen"
   },
   "dependencies": {
+    "prop-types": "^15.7.2",
     "react": "16.9.0",
     "react-native": "0.61.5"
   },
