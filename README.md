@@ -1,6 +1,6 @@
 # Plop example
 
-Generate screens and components skeletone with a given name
+Generate screens and components skeletone with a given name. Using [plop](https://github.com/plopjs/plop).
 
 ## Description
 
